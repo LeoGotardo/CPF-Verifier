@@ -1,2 +1,0 @@
-# CPF-Verifier
-✓ CPF Verifier
